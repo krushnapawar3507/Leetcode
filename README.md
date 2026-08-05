@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -40,5 +41,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
