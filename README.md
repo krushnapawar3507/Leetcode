@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/krushnapawar3507/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
