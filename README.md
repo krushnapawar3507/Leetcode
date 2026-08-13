@@ -29,6 +29,7 @@
 | [0877-stone-game](https://github.com/krushnapawar3507/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/krushnapawar3507/Leetcode/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
