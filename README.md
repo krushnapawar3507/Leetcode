@@ -23,6 +23,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/krushnapawar3507/Leetcode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/krushnapawar3507/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krushnapawar3507/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/krushnapawar3507/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/krushnapawar3507/Leetcode/tree/master/0414-third-maximum-number) |
@@ -47,6 +48,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krushnapawar3507/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krushnapawar3507/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/krushnapawar3507/Leetcode/tree/master/0414-third-maximum-number) |
@@ -54,10 +56,23 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krushnapawar3507/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krushnapawar3507/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/krushnapawar3507/Leetcode/tree/master/0367-valid-perfect-square) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krushnapawar3507/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krushnapawar3507/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krushnapawar3507/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
