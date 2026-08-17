@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/krushnapawar3507/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/krushnapawar3507/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/krushnapawar3507/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/krushnapawar3507/Leetcode/tree/master/0169-majority-element) |
@@ -64,6 +65,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/krushnapawar3507/Leetcode/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/krushnapawar3507/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
