@@ -28,6 +28,7 @@
 | [0035-search-insert-position](https://github.com/krushnapawar3507/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/krushnapawar3507/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/krushnapawar3507/Leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/krushnapawar3507/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/krushnapawar3507/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/krushnapawar3507/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krushnapawar3507/Leetcode/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/krushnapawar3507/Leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/krushnapawar3507/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/krushnapawar3507/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/krushnapawar3507/Leetcode/tree/master/0050-powx-n) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/krushnapawar3507/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
