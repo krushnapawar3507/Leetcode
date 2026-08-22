@@ -9,6 +9,7 @@
 | [0367-valid-perfect-square](https://github.com/krushnapawar3507/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/krushnapawar3507/Leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/krushnapawar3507/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
