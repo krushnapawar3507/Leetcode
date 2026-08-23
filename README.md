@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/krushnapawar3507/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/krushnapawar3507/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -45,6 +46,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/krushnapawar3507/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/krushnapawar3507/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/krushnapawar3507/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
