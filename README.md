@@ -31,6 +31,7 @@
 | [0053-maximum-subarray](https://github.com/krushnapawar3507/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/krushnapawar3507/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/krushnapawar3507/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/krushnapawar3507/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/krushnapawar3507/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krushnapawar3507/Leetcode/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/krushnapawar3507/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/krushnapawar3507/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/krushnapawar3507/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -61,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/krushnapawar3507/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krushnapawar3507/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
