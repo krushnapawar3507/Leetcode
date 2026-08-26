@@ -42,6 +42,7 @@
 | [0896-monotonic-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/krushnapawar3507/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1539-kth-missing-positive-number](https://github.com/krushnapawar3507/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0035-search-insert-position](https://github.com/krushnapawar3507/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/krushnapawar3507/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/krushnapawar3507/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1539-kth-missing-positive-number](https://github.com/krushnapawar3507/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
