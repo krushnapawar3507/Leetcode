@@ -38,6 +38,7 @@
 | [0238-product-of-array-except-self](https://github.com/krushnapawar3507/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/krushnapawar3507/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/krushnapawar3507/Leetcode/tree/master/0414-third-maximum-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/krushnapawar3507/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -82,6 +83,7 @@
 | [0035-search-insert-position](https://github.com/krushnapawar3507/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/krushnapawar3507/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/krushnapawar3507/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/krushnapawar3507/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/krushnapawar3507/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
