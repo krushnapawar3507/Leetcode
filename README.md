@@ -27,6 +27,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/krushnapawar3507/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krushnapawar3507/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/krushnapawar3507/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/krushnapawar3507/Leetcode/tree/master/0066-plus-one) |
@@ -80,6 +81,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krushnapawar3507/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/krushnapawar3507/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/krushnapawar3507/Leetcode/tree/master/0367-valid-perfect-square) |
