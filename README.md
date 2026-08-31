@@ -16,6 +16,7 @@
 | [0058-length-of-last-word](https://github.com/krushnapawar3507/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/krushnapawar3507/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/krushnapawar3507/Leetcode/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3794-reverse-string-prefix](https://github.com/krushnapawar3507/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/krushnapawar3507/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
