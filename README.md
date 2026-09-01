@@ -16,6 +16,7 @@
 | [0058-length-of-last-word](https://github.com/krushnapawar3507/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/krushnapawar3507/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/krushnapawar3507/Leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/krushnapawar3507/Leetcode/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3794-reverse-string-prefix](https://github.com/krushnapawar3507/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -56,6 +57,7 @@
 | [0088-merge-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/krushnapawar3507/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/krushnapawar3507/Leetcode/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/krushnapawar3507/Leetcode/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3794-reverse-string-prefix](https://github.com/krushnapawar3507/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
