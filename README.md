@@ -12,6 +12,7 @@
 | [0877-stone-game](https://github.com/krushnapawar3507/Leetcode/tree/master/0877-stone-game) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/krushnapawar3507/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3270-find-the-key-of-the-numbers](https://github.com/krushnapawar3507/Leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krushnapawar3507/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/krushnapawar3507/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
