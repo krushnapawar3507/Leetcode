@@ -60,6 +60,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/krushnapawar3507/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/krushnapawar3507/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2460-apply-operations-to-an-array](https://github.com/krushnapawar3507/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krushnapawar3507/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -74,6 +75,7 @@
 | [0283-move-zeroes](https://github.com/krushnapawar3507/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/krushnapawar3507/Leetcode/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2460-apply-operations-to-an-array](https://github.com/krushnapawar3507/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3794-reverse-string-prefix](https://github.com/krushnapawar3507/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/krushnapawar3507/Leetcode/tree/master/0175-combine-two-tables) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/krushnapawar3507/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
