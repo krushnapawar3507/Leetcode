@@ -13,6 +13,7 @@
 | [0342-power-of-four](https://github.com/krushnapawar3507/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/krushnapawar3507/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/krushnapawar3507/Leetcode/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krushnapawar3507/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/krushnapawar3507/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/krushnapawar3507/Leetcode/tree/master/3270-find-the-key-of-the-numbers) |
@@ -188,6 +189,7 @@
 | [0141-linked-list-cycle](https://github.com/krushnapawar3507/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/krushnapawar3507/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/krushnapawar3507/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krushnapawar3507/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
