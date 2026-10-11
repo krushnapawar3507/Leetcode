@@ -68,6 +68,7 @@
 | [1470-shuffle-the-array](https://github.com/krushnapawar3507/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/krushnapawar3507/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2460-apply-operations-to-an-array](https://github.com/krushnapawar3507/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krushnapawar3507/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krushnapawar3507/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -194,4 +195,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/krushnapawar3507/Leetcode/tree/master/0141-linked-list-cycle) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krushnapawar3507/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
