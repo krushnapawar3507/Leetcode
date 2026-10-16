@@ -31,6 +31,7 @@
 | [0796-rotate-string](https://github.com/krushnapawar3507/Leetcode/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3794-reverse-string-prefix](https://github.com/krushnapawar3507/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3941-password-strength](https://github.com/krushnapawar3507/Leetcode/tree/master/3941-password-strength) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/krushnapawar3507/Leetcode/tree/master/0268-missing-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krushnapawar3507/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3941-password-strength](https://github.com/krushnapawar3507/Leetcode/tree/master/3941-password-strength) |
 ## Binary Search
 |  |
 | ------- |
