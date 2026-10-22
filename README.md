@@ -199,6 +199,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/krushnapawar3507/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/krushnapawar3507/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Linked List
 |  |
@@ -211,6 +212,7 @@
 | [0328-odd-even-linked-list](https://github.com/krushnapawar3507/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/krushnapawar3507/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krushnapawar3507/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/krushnapawar3507/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
