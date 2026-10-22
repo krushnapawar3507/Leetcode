@@ -30,6 +30,7 @@
 | [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/krushnapawar3507/Leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/krushnapawar3507/Leetcode/tree/master/0796-rotate-string) |
+| [2942-find-words-containing-character](https://github.com/krushnapawar3507/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3794-reverse-string-prefix](https://github.com/krushnapawar3507/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3941-password-strength](https://github.com/krushnapawar3507/Leetcode/tree/master/3941-password-strength) |
@@ -75,6 +76,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/krushnapawar3507/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krushnapawar3507/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krushnapawar3507/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2942-find-words-containing-character](https://github.com/krushnapawar3507/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krushnapawar3507/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krushnapawar3507/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
