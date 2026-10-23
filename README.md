@@ -69,6 +69,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/krushnapawar3507/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0896-monotonic-array) |
+| [0946-validate-stack-sequences](https://github.com/krushnapawar3507/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/krushnapawar3507/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/krushnapawar3507/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -201,6 +202,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/krushnapawar3507/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/krushnapawar3507/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/krushnapawar3507/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Linked List
@@ -229,6 +231,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/krushnapawar3507/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/krushnapawar3507/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0946-validate-stack-sequences](https://github.com/krushnapawar3507/Leetcode/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
 | ------- |
