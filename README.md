@@ -30,6 +30,7 @@
 | [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/krushnapawar3507/Leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/krushnapawar3507/Leetcode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krushnapawar3507/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2942-find-words-containing-character](https://github.com/krushnapawar3507/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3794-reverse-string-prefix](https://github.com/krushnapawar3507/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krushnapawar3507/Leetcode/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krushnapawar3507/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krushnapawar3507/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krushnapawar3507/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Array
@@ -231,11 +233,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/krushnapawar3507/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/krushnapawar3507/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krushnapawar3507/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/krushnapawar3507/Leetcode/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krushnapawar3507/Leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krushnapawar3507/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
