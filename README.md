@@ -25,6 +25,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/krushnapawar3507/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/krushnapawar3507/Leetcode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/krushnapawar3507/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/krushnapawar3507/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/krushnapawar3507/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/krushnapawar3507/Leetcode/tree/master/0242-valid-anagram) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krushnapawar3507/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/krushnapawar3507/Leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/krushnapawar3507/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krushnapawar3507/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/krushnapawar3507/Leetcode/tree/master/0946-validate-stack-sequences) |
