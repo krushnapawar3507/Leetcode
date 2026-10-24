@@ -235,6 +235,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/krushnapawar3507/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/krushnapawar3507/Leetcode/tree/master/0071-simplify-path) |
+| [0225-implement-stack-using-queues](https://github.com/krushnapawar3507/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krushnapawar3507/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/krushnapawar3507/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krushnapawar3507/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -256,9 +257,11 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/krushnapawar3507/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krushnapawar3507/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/krushnapawar3507/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krushnapawar3507/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
