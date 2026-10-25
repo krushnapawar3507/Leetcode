@@ -235,6 +235,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/krushnapawar3507/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/krushnapawar3507/Leetcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/krushnapawar3507/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/krushnapawar3507/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krushnapawar3507/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/krushnapawar3507/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -267,6 +268,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krushnapawar3507/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -274,6 +276,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krushnapawar3507/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -288,6 +291,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krushnapawar3507/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
