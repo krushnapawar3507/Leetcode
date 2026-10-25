@@ -275,6 +275,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krushnapawar3507/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -284,6 +285,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krushnapawar3507/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 | [0101-symmetric-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -300,4 +303,5 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krushnapawar3507/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
