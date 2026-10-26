@@ -278,6 +278,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/krushnapawar3507/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/krushnapawar3507/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/krushnapawar3507/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
@@ -311,11 +312,13 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/krushnapawar3507/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/krushnapawar3507/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/krushnapawar3507/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/krushnapawar3507/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/krushnapawar3507/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/krushnapawar3507/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
