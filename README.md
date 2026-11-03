@@ -12,6 +12,7 @@
 | [0326-power-of-three](https://github.com/krushnapawar3507/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krushnapawar3507/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/krushnapawar3507/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/krushnapawar3507/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/krushnapawar3507/Leetcode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krushnapawar3507/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/krushnapawar3507/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -70,6 +71,7 @@
 | [0268-missing-number](https://github.com/krushnapawar3507/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krushnapawar3507/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/krushnapawar3507/Leetcode/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/krushnapawar3507/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/krushnapawar3507/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
