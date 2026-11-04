@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/krushnapawar3507/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/krushnapawar3507/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/krushnapawar3507/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/krushnapawar3507/Leetcode/tree/master/0189-rotate-array) |
@@ -184,6 +185,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/krushnapawar3507/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/krushnapawar3507/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/krushnapawar3507/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/krushnapawar3507/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -220,6 +222,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/krushnapawar3507/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krushnapawar3507/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/krushnapawar3507/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krushnapawar3507/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
